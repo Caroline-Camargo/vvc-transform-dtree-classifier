@@ -71,3 +71,8 @@ Integration of these models into the encoder is shown in **Figure**, and their b
 - Feature selection is performed using **Recursive Feature Elimination with Cross-Validation (RFECV)**.  
 - Hyperparameter optimization uses **RandomizedSearchCV** over Decision Tree parameters.  
 - Logging is included for monitoring data processing, training, and evaluation.  
+
+##
+
+📂 The full set of features used for training and evaluation is available in  
+[`features.csv`](https://drive.google.com/file/d/12zFhs0V7eNRIcP1NctTG8sjc53c3w08n/view?usp=sharing).
